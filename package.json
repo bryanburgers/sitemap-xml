@@ -1,0 +1,26 @@
+{
+  "name": "sitemap-xml",
+  "version": "0.1.0",
+  "description": "Create a sitemap.xml file by streaming URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bryanburgers/sitemap-xml"
+  },
+  "keywords": [
+    "sitemap",
+    "sitemap.xml",
+    "stream",
+    "streams",
+    "sitemaps",
+    "sitemaps.org"
+  ],
+  "author": "Bryan Burgers <bryan.burgers@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.12.1"
+  }
+}
