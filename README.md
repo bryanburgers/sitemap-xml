@@ -2,6 +2,8 @@
 
 Stream URLs to the sitemap.
 
+[![Build Status](https://travis-ci.org/bryanburgers/sitemap-xml.png?branch=master)](https://travis-ci.org/bryanburgers/sitemap-xml)
+
 ## Usage
 
 ```js
